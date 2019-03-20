@@ -5,5 +5,4 @@ A clean and simple calculator app for android. Tryed to hold it similar to the o
 from positive to negative +/-. 
 The plan is to take it further with a page for common conversions as well.
 
-
-![](images/calc.jpeg)
+<img src="images/Calc.jpg" width="250">
