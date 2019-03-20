@@ -6,4 +6,4 @@ from positive to negative +/-.
 The plan is to take it further with a page for common conversions as well.
 
 
-![](images/calculator.jpeg)
+![](images/calc.jpeg)
